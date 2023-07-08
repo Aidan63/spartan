@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5e6fedc2472449cead18ef23b5cb30d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Library:
+  - m_Name: Head
+    m_Hash: 130111906
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Entry
+      m_Hash: 719368820
+      m_Sprite: {fileID: -9057994390580557730, guid: e4cebf9ed810e3c4da3ddd2937928f95, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -9057994390580557730, guid: e4cebf9ed810e3c4da3ddd2937928f95, type: 3}
+    - m_Name: helmets_Frame_1
+      m_Hash: 90812838
+      m_Sprite: {fileID: 5713591104084021628, guid: e4cebf9ed810e3c4da3ddd2937928f95, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 5713591104084021628, guid: e4cebf9ed810e3c4da3ddd2937928f95, type: 3}
+    - m_Name: helmets_Frame_2
+      m_Hash: 476110876
+      m_Sprite: {fileID: 5000154557649315974, guid: e4cebf9ed810e3c4da3ddd2937928f95, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 5000154557649315974, guid: e4cebf9ed810e3c4da3ddd2937928f95, type: 3}
+    - m_Name: helmets_Frame_3
+      m_Hash: 728223882
+      m_Sprite: {fileID: 6588051437619090368, guid: e4cebf9ed810e3c4da3ddd2937928f95, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 6588051437619090368, guid: e4cebf9ed810e3c4da3ddd2937928f95, type: 3}
+    - m_Name: helmets_Frame_4
+      m_Hash: 889406761
+      m_Sprite: {fileID: -8180985808583943243, guid: e4cebf9ed810e3c4da3ddd2937928f95, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -8180985808583943243, guid: e4cebf9ed810e3c4da3ddd2937928f95, type: 3}
+    - m_Name: helmets_Frame_5
+      m_Hash: 33846719
+      m_Sprite: {fileID: -374409891876269021, guid: e4cebf9ed810e3c4da3ddd2937928f95, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -374409891876269021, guid: e4cebf9ed810e3c4da3ddd2937928f95, type: 3}
+    - m_Name: helmets_Frame_6
+      m_Hash: 453846021
+      m_Sprite: {fileID: 2940710918264794437, guid: e4cebf9ed810e3c4da3ddd2937928f95, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 2940710918264794437, guid: e4cebf9ed810e3c4da3ddd2937928f95, type: 3}
+    - m_Name: helmets_Frame_7
+      m_Hash: 738858131
+      m_Sprite: {fileID: 6034386535256356716, guid: e4cebf9ed810e3c4da3ddd2937928f95, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 6034386535256356716, guid: e4cebf9ed810e3c4da3ddd2937928f95, type: 3}
+    - m_Name: helmets_Frame_8
+      m_Hash: 1018497282
+      m_Sprite: {fileID: -1089857051048787806, guid: e4cebf9ed810e3c4da3ddd2937928f95, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1089857051048787806, guid: e4cebf9ed810e3c4da3ddd2937928f95, type: 3}
+    - m_Name: helmets_Frame_9
+      m_Hash: 196229524
+      m_Sprite: {fileID: 5342411153381366059, guid: e4cebf9ed810e3c4da3ddd2937928f95, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 5342411153381366059, guid: e4cebf9ed810e3c4da3ddd2937928f95, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 10
+  - m_Name: Torso
+    m_Hash: 647926657
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Entry
+      m_Hash: 719368820
+      m_Sprite: {fileID: -7927009670124851376, guid: 2abfc41662279024e94c866a076ac525, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -7927009670124851376, guid: 2abfc41662279024e94c866a076ac525, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 1
+  - m_Name: Leg
+    m_Hash: 228443823
+    m_CategoryList: []
+    m_OverrideEntries: []
+    m_FromMain: 0
+    m_EntryOverrideCount: 0
+  m_PrimaryLibraryGUID: 
